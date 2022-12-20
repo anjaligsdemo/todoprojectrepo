@@ -1,0 +1,30 @@
+.banner {
+background-color: #0EB4B4;
+padding-bottom: 15px;
+padding-top: 15px;
+margin-bottom: 20px;
+}
+.banner-text{
+text-align: center;
+font-family:  Lucida Handwritingf;
+}
+.field-space{
+margin-top: 10px;
+}
+
+task-heading{
+tbackground-color: #0EB4B4;
+padding-bottom: 15px;
+padding-top: 15px;
+margin-bottom: 20px;
+}
+
+.delete-blockt{
+padding-bottom: 15px;
+padding-top: 100px;
+
+}
+
+.errorlist {
+display:none;
+}
